@@ -1,7 +1,7 @@
 <template>
   <q-page class="row items-center justify-evenly">
     <div>
-      <h1>Our Service</h1>
+      <h1>Forum</h1>
     </div>
 
   </q-page>

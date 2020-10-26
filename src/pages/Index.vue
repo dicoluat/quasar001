@@ -1,5 +1,9 @@
 <template>
-  <h1>Home</h1>
+  <q-page class="row items-center justify-evenly">
+    <div>
+      <h1>Home</h1>
+    </div>
+  </q-page>
 </template>
 
 <script lang="ts">
