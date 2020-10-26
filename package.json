@@ -49,5 +49,8 @@
     "node": ">= 10.18.1",
     "npm": ">= 6.13.4",
     "yarn": ">= 1.21.1"
+  },
+  "optionalDependencies": {
+    "fsevents": "^2.1.3"
   }
 }
